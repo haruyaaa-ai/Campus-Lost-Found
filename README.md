@@ -1,10 +1,9 @@
-<<<<<<< HEAD
 # 🎓 Campus Lost & Found App
 
 [![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)](https://flutter.dev)
 [![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase&logoColor=ffca28)](https://firebase.google.com/)
 
-**Campus Lost & Found** adalah aplikasi mobile modern yang dirancang untuk membantu mahasiswa dan civitas akademika dalam menemukan barang yang hilang atau melaporkan barang yang ditemukan di lingkungan kampus. Dibangun dengan estetika premium, performa tinggi, dan integrasi cloud yang aman.
+**Campus Lost & Found** adalah aplikasi mobile modern yang dirancang untuk membantu mahasiswa dan civitas akademika dalam menemukan barang yang hilang atau melaporkan barang yang ditemukan di lingkungan kampus.
 
 ---
 
