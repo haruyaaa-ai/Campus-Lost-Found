@@ -5,6 +5,9 @@
 
 **Campus Lost & Found** adalah aplikasi mobile modern yang dirancang untuk membantu mahasiswa dan civitas akademika dalam menemukan barang yang hilang atau melaporkan barang yang ditemukan di lingkungan kampus.
 
+**Tautan Aplilkasi**
+https://campusprojectlostandfound.netlify.app/
+
 **Demo Aplikasi**
 <video src="https://github.com/user-attachments/assets/aa9cc82f-e70a-4956-aa9a-d34cf33b7516" width="100%" controls></video>
 
